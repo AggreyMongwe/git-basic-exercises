@@ -1,0 +1,339 @@
+    1  cd Desktop/Umuzi-Web-Dev
+    2  cd Desktop/Umuzi-Web-Dev
+    3  cd Desktop/UMUZI-BOOTCAMP
+    4  cd Desktop/Umuzi_Bootcamp
+    5  cd Desktop/Web_development
+    6  cd Desktop/Web_development
+    7  cd Desktop/Umuzi_Bootcamp
+    8  cd Desktop/Umuzi_Bootcamp
+    9  cd Desktop/Umuzi_Bootcamp
+   10  cd Desktop/Web_development
+   11  cd ../../
+   12  cd Umuzi_Bootcamp
+   13  git clone https//:github.com/Umuzi-org/Aggrey-Mongwe-219-level-1-programming-katas-javascript.git
+   14  git clone https://github.com/Umuzi-org/Aggrey-Mongwe-219-level-1-programming-katas-javascript.git
+   15  git config --global user.email "mongweaggrey@gmail.com"
+   16  git config --global user.name "aggrey"
+   17  cd ../../
+   18  cd Umuzi_Bootcamp
+   19  cd ../../
+   20  cd Umuzi_Bootcamp
+   21  cd "C:\Umuzi_Bootcamp\Aggrey-Mongwe-219-level-1-programming-katas-javascript"
+   22  git add task3.js
+   23  git commit "added task3"
+   24  git commit -m "added task3"
+   25  git push --set-upstream origin task/3
+   26  git checkout main
+   27  git checkout -b task/4
+   28  touch task4.js
+   29  touch task4.js
+   30  touch command
+   31  touch task4.js
+   32  git add task4.js
+   33  git commit -m "added task4"
+   34  git push --set-upstream origin task/4
+   35  git checkout main
+   36  git checkout -b task/5
+   37  touch task.js
+   38  touch task5.js
+   39  git add task5.js
+   40  git commit -m "added task5"
+   41  git push --set-upstream origin task/5
+   42  git checkout main
+   43  git checkout -b task/6
+   44  touch task6.js
+   45  git add task6.js
+   46  git commit -m "added task6"
+   47  git push --set-upstream origin task/6
+   48  git checkout main
+   49  git checkout -b task/7
+   50  touch task7.js
+   51  git add task7.js
+   52  git commit -m "added task7"
+   53  git push --set-upstream origin task/7
+   54  cd ../../
+   55  cd Umuzi_Bootcamp
+   56  cd "C:\Umuzi_Bootcamp\Aggrey-Mongwe-219-level-1-programming-katas-javascript"
+   57  git checkout task/5
+   58  git add task5.js
+   59  git commit -m "removed function calls"
+   60  git push 
+   61  cd ../
+   62  cd ../../
+   63  cd Umuzi_Bootcamp
+   64  cd Aggrey-Mongwe-219-level-1-programming-katas-javascript
+   65  cd ../../
+   66  cd Umuzi_Bootcamp
+   67  cd "C:\Umuzi_Bootcamp\Aggrey-Mongwe-219-level-1-programming-katas-javascript"
+   68  git checkout task/3
+   69  git add task.js
+   70  git add task3.js
+   71  git commit -m "removed function calls"
+   72  git push --set-upstream origin task/3
+   73  git checkout main
+   74  git checkout task/4
+   75  git add task4.js
+   76  git commit -m "removed function calls"
+   77  git push --set-upstream origin task/4
+   78  git checkout main
+   79  git checkout task/2
+   80  git add task2.js
+   81  git commit -m "removed function calls"
+   82  git push --set-upstream origin task/2
+   83  git checkout main
+   84  git checkout task/5
+   85  git checkout main
+   86  git checkout task/6
+   87  git add task6.js
+   88  git commit -m "removed function calls"
+   89  git push --set-upstream origin task/6
+   90  git checkout main
+   91  git checkout task/6
+   92  git checkout main
+   93  git checkout task/7
+   94  git add task7.js
+   95  git commit -m "removed function calls"
+   96  git push --set-upstream origin task/7
+   97  ../../
+   98  cd ../../
+   99  cd Umuzi_Bootcamp
+  100  cd "C:\Umuzi_Bootcamp\Aggrey-Mongwe-223-person-javascript"
+  101  git checkout person
+  102  git add person.js
+  103  git commit -m "addressed all requested changes"
+  104  git push --set-upstream origin person
+  105  ../../
+  106  CD ../../ 
+  107  CD Umuzi_Bootcamp
+  108  cd ../../
+  109  cd Umuzi_Bootcamp
+  110  cd "C:\Umuzi_Bootcamp\Aggrey-Mongwe-219-level-1-programming-katas-javascript"
+  111  git checkout main
+  112  git checkout task/5
+  113  git add task5.js
+  114  git commit -m "n is removed"
+  115  git push --set-upstream origin task/5
+  116  git checkout task/5
+  117  git add task5.js
+  118  git commit -m "changed to descriptive name"
+  119  git push --set-upstream origin task/5
+  120  mikdir<git-basic-exercises>
+  121  cd ../../
+  122  cd Umuzi_Bootcamp
+  123  mikdir<git-basic-exercises>
+  124  mkdir<git-basic-exercises>
+  125  mkdir git-basic-exercises
+  126  cd git-basic-exercises
+  127  Is -a
+  128  Is -a "git-basic-exercises"
+  129  ../../
+  130  cd../../
+  131  cd Umuzi_Bootcamp
+  132  cd "C:\Umuzi_Bootcamp\Aggrey-Mongwe-223-person-javascript"
+  133  git checkout person
+  134  git add person
+  135  git add person.js
+  136  git commit -m "changes"
+  137  git push --set-upstream origin person
+  138  clear
+  139  cd ../
+  140  cd git-basic-exercises
+  141  ls -a
+  142  git init
+  143  ls -a
+  144  git status
+  145  touch README.md
+  146  ls -a
+  147  git status
+  148  git log
+  149  git add README.md
+  150  git status
+  151  git status
+  152  git commit -m "initial commit"
+  153  git log
+  154  q
+  155  git log q
+  156  nano README.md
+  157  cat README.md
+  158  git status
+  159  git commit -m "second commit"
+  160  git commit -m "third commit"
+  161  git log
+  162  git checkout cat README.md
+  163  git chechout 2103b6418ecf4f70effabb639cfad6ac9d57c089
+  164  cat README.md
+  165  git status
+  166  git checkout ce82fab0e14d400e086db9ac093540a7d9478601
+  167  clear
+  168  cd ../
+  169  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp
+  170  $ cd git-basic-exercises
+  171  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises
+  172  $ ls -a
+  173  ./  ../
+  174  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises
+  175  $ git init
+  176  Initialized empty Git repository in C:/Umuzi_Bootcamp/git-basic-exercises/.git/
+  177  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  178  $ ls -a
+  179  ./  ../  .git/
+  180  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  181  $ git status
+  182  On branch master
+  183  No commits yet
+  184  nothing to commit (create/copy files and use "git add" to track)
+  185  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  186  $ touch README.md
+  187  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  188  $ ls -a
+  189  ./  ../  .git/  README.md
+  190  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  191  $ git status
+  192  On branch master
+  193  No commits yet
+  194  Untracked files:
+  195    (use "git add <file>..." to include in what will be committed)
+  196          README.md
+  197  nothing added to commit but untracked files present (use "git add" to track)
+  198  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  199  $ git log
+  200  fatal: your current branch 'master' does not have any commits yet
+  201  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  202  $ git add README.md
+  203  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  204  $ git status
+  205  On branch master
+  206  No commits yet
+  207  Changes to be committed:
+  208    (use "git rm --cached <file>..." to unstage)
+  209          new file:   README.md
+  210  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  211  $ git status
+  212  On branch master
+  213  No commits yet
+  214  Changes to be committed:
+  215    (use "git rm --cached <file>..." to unstage)
+  216          new file:   README.md
+  217  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  218  $ git commit -m "initial commit"
+  219  [master (root-commit) ce82fab] initial commit
+  220   1 file changed, 0 insertions(+), 0 deletions(-)
+  221   create mode 100644 README.md
+  222  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  223  $ git log
+  224  commit ce82fab0e14d400e086db9ac093540a7d9478601 (HEAD -> master)
+  225  Author: aggrey <mongweaggrey@gmail.com>
+  226  Date:   Fri Mar 8 17:55:46 2024 +0200
+  227      initial commit
+  228  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  229  $ q
+  230  bash: q: command not found
+  231  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  232  $ git log q
+  233  fatal: ambiguous argument 'q': unknown revision or path not in the working tree.
+  234  Use '--' to separate paths from revisions, like this:
+  235  'git <command> [<revision>...] -- [<file>...]'
+  236  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  237  $ nano README.md
+  238  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  239  $ cat README.md
+  240  ilovecoding
+  241  tsund@Aggrey MINGW64 /c/Umuzi_Bootcamp/git-basic-exercises (master)
+  242  $ git status
+  243  On branch master
+  244  Changes not staged for commit:
+  245    (use "git add <file>..." to update what will be committed)
+  246    (use "git restore <file>..." to discard changes in working directory)
+  247          modified:   README.md
+  248  no changes added to commit (use "git add" and/or "git commit -a")
+  249  clear
+  250  cd ../
+  251  cd Umuzi_Bootcamp
+  252  $ cd git-basic-exercises
+  253  cd git-basic-exercises
+  254  cd a57585d3cf93e64c04e62e58dfe8151d191503cf
+  255  $ cat README.md
+  256  $ cat README.md
+  257  cat README.md
+  258  git status
+  259  git commit -m "second commit"
+  260  git add git-basic-exercises
+  261  git commit -m "second commit"
+  262  git commit -m "third commit"
+  263  git log
+  264  git log
+  265  git add git-basic-exercises
+  266  git commit -a "second commit"
+  267  clear
+  268  cd ../
+  269  clear
+  270  git checkout main
+  271  cd git-basic-exercises
+  272  clear
+  273  clear
+  274  mkdir git-basic-exercises
+  275  cd  git-basic-exercises
+  276  ls -a
+  277  git init
+  278  ls -a
+  279  git status
+  280  touch README.md
+  281  ls -a
+  282  git status
+  283  git log
+  284  clear
+  285   git add README.md
+  286  cd ../
+  287  cd Umuzi_Bootcamp
+  288  cd ../
+  289  cd ../../
+  290  cd Umuzi_Bootcamp
+  291  cd git-basic-exercises
+  292  git status
+  293  git add README.md
+  294  git status
+  295  git rm --cached README.md
+  296  git status
+  297  git add README.md
+  298  git commit -m "initial commit"
+  299  git log
+  300  q
+  301  nano README.md
+  302  cat README.md
+  303  nano README.md
+  304  cat README.md
+  305  git status
+  306  git commit -m "second commit"
+  307  rm README.mdy
+  308  ls 
+  309  git status
+  310  git add README.md
+  311  git commit -m "second commit"
+  312  nano README.md
+  313  git add README.md
+  314  git commit -m "third commit"
+  315  git log
+  316  git chechout eed15492fc30d1f74a2307effac43ef84c887078
+  317  git checkout eed15492fc30d1f74a2307effac43ef84c887078
+  318  cat README.md
+  319  git checkout main
+  320  git checkout master
+  321  cat README.md
+  322  git branch
+  323  git checkout -b milkshake-flavours
+  324  git branch
+  325  git checkout milkshake-flavours
+  326  git branch
+  327  nano milkshakes.md
+  328  git status
+  329  git add milkshakes.md
+  330  git commit -m "added initial flavours"
+  331  git log
+  332  git checkout
+  333  git log
+  334  git checkout master
+  335  git log
+  336  git checkout -b history
+  337  git log
+  338  git branch
+  339  history > history.txt
